@@ -36,7 +36,7 @@
 				<version>3.0.0-M3</version>
 				<configuration>
 					<!-- include tags -->
-					<groups>integration, feature-168</groups>
+					<groups>branch-20</groups>
 					<!-- exclude tags -->
 					<excludedGroups>slow</excludedGroups>
 				</configuration>
